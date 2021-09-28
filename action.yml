@@ -1,5 +1,5 @@
 name: assembly-synbio
-description: This action asssembly sequences a list of DNA parts and create the final sequence with a composition of parts using the Golden Gate standard.
+description: This action asssembly sequences a list of DNA parts and create the final sequence.
 inputs:
     who-to-greet:  # id of input
         description: 'Who to greet'
